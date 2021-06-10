@@ -14,14 +14,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
   <br/> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETesauro&theme=dracula" width="41%" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ETesauro&show_icons=true&theme=dracula" width="50%" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WLBTeamUnisa&repo=WorkLifeBalance&theme=dracula" width="50%" /></p>
-
+<!-- Top Languages -->
+<p>
+  <a href="https://github.com/ETesauro">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETesauro&theme=dracula" width="41%" />
+  </a>
+</p>
+<!-- Github Stats -->
+<p>
+  <a href="https://github.com/ETesauro">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ETesauro&show_icons=true&theme=dracula" width="50%" />
+  </a>
+</p>
+<!-- Extra -->
+<p>
+  <a href="https://github.com/WLBTeamUnisa/WorkLifeBalance">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WLBTeamUnisa&repo=WorkLifeBalance&theme=dracula" width="50%" />
+  </a>
+</p>
 <br/>
 
 ### Now Playing 🎧
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/21ekujdwtofqfkhgwwgwdfqty?si=mKE4CvpPSSmM3qKXqhmtcg)
 <br/>
 
 ### Connect with me!
