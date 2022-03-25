@@ -60,8 +60,6 @@
 
 <!-- NOW PLAYING -->
 
-<h1></h1>
-
 <h2 align='center'>
   Now Playing 🎧
 </h2>
@@ -75,8 +73,6 @@
 </p>
 
 <!-- CONTACT ME -->
-
-<h1></h1>
 
 <h2 align='center'>
   Contact me
