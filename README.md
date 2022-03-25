@@ -41,7 +41,7 @@
 
 <h1></h1>
 
-<details>
+<details open>
   <summary>📃 Resume</summary>
 
 ## Education
