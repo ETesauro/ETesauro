@@ -7,17 +7,17 @@
 </p>
 
 <p align='center'>
-  <a href='https://linkedin.com/in/emmanuel-tesauro-014244175'>
+  <a href='https://linkedin.com/in/emmanuel-tesauro-014244175' target="_blank">
     <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' />
   </a>&nbsp;&nbsp;
-  <a href='https://www.instagram.com/emmanuel_tesauro/'>
+  <a href='https://www.instagram.com/emmanuel_tesauro/' target="_blank">
     <img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' />        
   </a>&nbsp;&nbsp;
 </p>
 
 <!-- Github Stats -->
 <p align='center'>
-  <a href='https://github.com/ETesauro'>
+  <a href='https://github.com/ETesauro' target="_blank">
     <img align='center' src='https://github-readme-stats.vercel.app/api?username=ETesauro&show_icons=true&theme=dracula' width='50%' />
   </a>
 </p>
@@ -67,7 +67,7 @@
 <br>
 
 <p align='center'>
-  <a href='https://open.spotify.com/user/21ekujdwtofqfkhgwwgwdfqty?si=mKE4CvpPSSmM3qKXqhmtcg'>
+  <a href='https://open.spotify.com/user/21ekujdwtofqfkhgwwgwdfqty?si=mKE4CvpPSSmM3qKXqhmtcg' target="_blank">
     <img src='https://github-readme-remake.vercel.app/api/spotify'/>
   </a>
 </p>
