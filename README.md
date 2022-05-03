@@ -81,5 +81,5 @@
 <br>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
+  📫 How to reach me: <a href='mailto:emmanuel.tesauro@gmail.com'>emmanuel.tesauro@gmail.com</a>
 </p>
