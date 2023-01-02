@@ -46,13 +46,13 @@
 
 ## Education
 
-- 📖 **Master's Degree**\
+- 📖 **Master's Degree in Cloud Computing**\
   📆 2020 - 2022\
   📍 **University of Salerno** - Salerno, Italy
 - 📖 **Apple Foundation Program**\
   📆 February 2020\
   📍 **University of Salerno** - Salerno, Italy
-- 📖 **Bachelor Degree**\
+- 📖 **Bachelor's Degree in Computer Science**\
   📆 2017 - 2020\
   📍 **University of Salerno** - Salerno, Italy
 
