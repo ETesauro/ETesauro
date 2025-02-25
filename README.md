@@ -44,17 +44,32 @@
 <details open>
   <summary>📃 Resume</summary>
 
-## Education
+  ## Experiences
+  - 📖 **WEB DEVELOPER - Angular**\
+    📆 2024 - Current\
+    📍 **Capgemini** - Salerno, Italy
 
-- 📖 **Master's Degree in Cloud Computing**\
-  📆 2020 - 2022\
-  📍 **University of Salerno** - Salerno, Italy
-- 📖 **Apple Foundation Program**\
-  📆 February 2020\
-  📍 **University of Salerno** - Salerno, Italy
-- 📖 **Bachelor's Degree in Computer Science**\
-  📆 2017 - 2020\
-  📍 **University of Salerno** - Salerno, Italy
+  - 📖 **MOBILE DEVELOPER - Flutter**\
+    📆 2021 - 2024\
+    📍 **Healthware International** - Salerno, Italy
+
+  - 📖 **UX / UI DESIGNER**\
+    📆 2021 - 2022\
+    📍 **University of Salerno** - Salerno, Italy
+
+  ## Education
+
+  - 📖 **Master's Degree in Cloud Computing**\
+    📆 2020 - 2022\
+    📍 **University of Salerno** - Salerno, Italy
+
+  - 📖 **Apple Foundation Program**\
+    📆 February 2020\
+    📍 **University of Salerno** - Salerno, Italy
+    
+  - 📖 **Bachelor's Degree in Computer Science**\
+    📆 2017 - 2020\
+    📍 **University of Salerno** - Salerno, Italy
 
 </details>
 
